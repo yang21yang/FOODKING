@@ -1,3 +1,10 @@
+/*  第一次更改*/
+*{margin:0;padding:0;}
+img{
+    width:100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 .my_wh{
     width:30%;
     height:55%;
